@@ -1,5 +1,5 @@
 {
-  "name": "@tetherto/pear-apps-utils-pattern-search",
+  "name": "lockwright-utils-pattern-search",
   "version": "0.0.5",
   "description": "utility for search pattern",
   "main": "src/index.js",

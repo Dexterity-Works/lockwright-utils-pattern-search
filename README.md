@@ -26,7 +26,7 @@ Community fork of PearPass (Apache 2.0). Not affiliated with or endorsed by Teth
 
 ## Security Notice
 
-Imports stay `@tetherto/pear-apps-utils-pattern-search`. That npm name is not this fork if you install it from the npm registry.
+The package name is `lockwright-utils-pattern-search`.
 
 ## Installation
 
@@ -37,7 +37,7 @@ npm install git+https://github.com/Dexterity-Works/lockwright-utils-pattern-sear
 ## Usage Examples
 
 ```javascript
-import { matchPatternToValue } from '@tetherto/pear-apps-utils-pattern-search';
+import { matchPatternToValue } from 'lockwright-utils-pattern-search';
 
 const pattern = 'hello';
 const value = 'Hello, World!';
